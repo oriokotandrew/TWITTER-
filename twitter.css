@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.heading{
+    scroll-margin-right: 570px;
+    margin-top: 20px;
+    font: size 15px;
+    font-family: sans-serif;
+    
+}
+.main{
+    mask-origin: 500px;
+}
+.form input{
+    padding: 20px;
+    width: 500px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(29 161 242) ;
+    outline-style: none;
+    padding-bottom: 30px;
+}
+.btn button{
+    margin-left: -8px;
+    margin-top: 25px;
+    padding: 15px;
+    width: 530px;
+    border-radius: 30px;
+    border: none;
+    outline-style: none;
+    color: white;
+    background-color:rgb(29 161 242) ;
+    capacity:.5;
+    font-size: 16px;
+}
+.forgot{
+    margin-top: -20;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+p a{
+    color: rgb(29 161 242);
+}
+.signup{
+    margin-left: 280px;
+    margin-top: -16px;
+    color: rgb(29 161 242);
